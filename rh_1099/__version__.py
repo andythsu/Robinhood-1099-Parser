@@ -1,0 +1,5 @@
+__title__ = 'rh_1099'
+__description__ = 'Parses Robinhood 1099 tax document from PDF into CSV format'
+__url__ = 'https://github.com/andythsu/Robinhood-1099-Parser'
+__version__ = '1.0.1'
+__keywords__ = 'pdf, csv, parsing, excel, spreadsheet, tax, robinhood, 1099'
